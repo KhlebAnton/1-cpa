@@ -43,6 +43,10 @@ html {
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     color: #09090A;
     min-width: 428px;
+    overflow-x: hidden;
+}
+body {
+    overflow-x: hidden;
 }
 
 .btn {
